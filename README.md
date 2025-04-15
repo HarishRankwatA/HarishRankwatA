@@ -1,17 +1,13 @@
 # Hello, I'm Harish Rankwat A
-<a href="www.linkedin.com/in/harish-rankwat"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harish-rankwat/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a BCA student passionate about cybersecurity, focusing on systems, data protection, and ethical hacking.
+Aspiring SOC Analyst currently pursuing BCA, with foundational knowledge in cybersecurity, networking, and SIEM tools. Eager to grow in threat monitoring and incident response within a Security Operations Center.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Analyst.
+To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, networking, and system monitoring. Currently pursuing BCA and building hands-on skills with SIEM tools, threat detection, and incident response. Eager to contribute to a proactive security team and grow within the cybersecurity field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,19 +19,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### OS & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-F80000?&style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004079?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-4B8BBE?&style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ### SIEM
@@ -45,14 +43,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Endpoint
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Threat Intelligence & Case Management
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-FEC601?&style=for-the-badge&logo=apachehive&logoColor=black" />
+    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=virustotal&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-5A3E85?&style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk%20SOAR-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CS50%20Certificate-5C2D91?&style=for-the-badge&logo=Harvard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ethical%20Hacking-FF6347?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
 </div>
 
 ## Projects
