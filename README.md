@@ -69,7 +69,7 @@ To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, ne
 </div>
 
 ## Projects
-- Home Lab
+- <a href = "https://github.com/HarishRankwatA/Home-Lab"> Home Lab</a>
 - Detection Lab
 - SOC Automation Project
 
