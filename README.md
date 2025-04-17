@@ -69,5 +69,7 @@ To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, ne
 </div>
 
 ## Projects
+- Home Lab
 - Detection Lab
 - SOC Automation Project
+
