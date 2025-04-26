@@ -11,12 +11,9 @@ To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, ne
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Home Lab Setup and Experimentation           | <a href = "https://github.com/HarishRankwatA/Home-Lab"> Home Lab</a>|
+| Snort IDS Implementation   | <a href = "https://github.com/HarishRankwatA/Snort-IDS-Project"> Snort IDS </a>|
+
 
 ## Tools
 
@@ -34,32 +31,33 @@ To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, ne
     <img src="https://img.shields.io/badge/-Nmap-004079?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-4B8BBE?&style=for-the-badge&logo=codeforces&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+    
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <!--<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <!--<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />-->
 </div>
-
+<!--
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
-
 ### Threat Intelligence & Case Management
 <div>
     <img src="https://img.shields.io/badge/-TheHive-FEC601?&style=for-the-badge&logo=apachehive&logoColor=black" />
     <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=virustotal&logoColor=white" />
 </div>
-
 ### SOAR
 <div>
     <img src="https://img.shields.io/badge/-Shuffle-5A3E85?&style=for-the-badge&logo=fastapi&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk%20SOAR-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
+-->
 
 ## Certifications
 <div>
@@ -70,6 +68,6 @@ To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, ne
 
 ## Projects
 - <a href = "https://github.com/HarishRankwatA/Home-Lab"> Home Lab</a>
-- Detection Lab
+- <a href = "https://github.com/HarishRankwatA/Snort-IDS-Project"> Snort IDS </a>
 - SOC Automation Project
 
