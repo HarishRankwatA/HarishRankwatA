@@ -1,73 +1,50 @@
 # Hello, I'm Harish Rankwat A
 <a href="https://www.linkedin.com/in/harish-rankwat/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring SOC Analyst currently pursuing BCA, with foundational knowledge in cybersecurity, networking, and SIEM tools. Eager to grow in threat monitoring and incident response within a Security Operations Center.
+Data Analyst & Data Science Enthusiast with strong expertise in **Python, SQL, Statistics, Machine Learning, BI Tools, and Prompt Engineering**.  
+I specialize in extracting insights, building predictive models, and creating impactful dashboards for data-driven decision making.
 
 ## Objective
 
-To obtain a SOC Analyst role where I can apply my knowledge of cybersecurity, networking, and system monitoring. Currently pursuing BCA and building hands-on skills with SIEM tools, threat detection, and incident response. Eager to contribute to a proactive security team and grow within the cybersecurity field.
+To leverage my end-to-end data analysis and machine learning expertise in solving complex business problems. Skilled in **data cleaning, visualization, statistical analysis, forecasting, and AI-assisted automation**, I aim to contribute actionable insights that drive growth and efficiency.  
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Home Lab Setup and Experimentation           | <a href = "https://github.com/HarishRankwatA/Home-Lab"> Home Lab</a>|
-| Snort IDS Implementation   | <a href = "https://github.com/HarishRankwatA/Snort-IDS-Project"> Snort IDS </a>|
-
+| Exploratory Data Analysis (EDA) with Python   | <a href="https://github.com/HarishRankwatA/Data-Analysis-Projects"> EDA Projects</a> |
+| SQL Querying & Optimization                   | <a href="https://github.com/HarishRankwatA/SQL-Projects"> SQL Case Studies</a> |
+| Data Visualization (Power BI / Tableau / Matplotlib) | <a href="https://github.com/HarishRankwatA/Visualization-Projects"> Dashboards</a> |
+| Machine Learning Models (Regression, Classification, Clustering) | <a href="https://github.com/HarishRankwatA/ML-Projects"> ML Projects</a> |
+| Statistical Analysis & Hypothesis Testing      | <a href="https://github.com/HarishRankwatA/Stats-Projects"> Statistics</a> |
+| Prompt Engineering for Data Analysis           | <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools</a> |
 
 ## Tools
 
-### OS & Scripting
+### Programming & Data
 <div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matplotlib-000000?&style=for-the-badge&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Seaborn-4C8CBF?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerBI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
-### Network
+### Additional Strengths
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-F80000?&style=for-the-badge&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004079?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-4B8BBE?&style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prompt_Engineering-FF6F00?&style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <!--<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <!--<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />-->
-</div>
-<!--
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-### Threat Intelligence & Case Management
-<div>
-    <img src="https://img.shields.io/badge/-TheHive-FEC601?&style=for-the-badge&logo=apachehive&logoColor=black" />
-    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?&style=for-the-badge&logo=virustotal&logoColor=white" />
-</div>
-### SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle-5A3E85?&style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk%20SOAR-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</div>
--->
-
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CS50%20Certificate-5C2D91?&style=for-the-badge&logo=Harvard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ethical%20Hacking-FF6347?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
-</div>
 
 ## Projects
-- <a href = "https://github.com/HarishRankwatA/Home-Lab"> Home Lab</a>
-- <a href = "https://github.com/HarishRankwatA/Snort-IDS-Project"> Snort IDS </a>
-- SOC Automation Project
-
+- <a href="https://github.com/HarishRankwatA/Data-Analysis-Projects"> End-to-End Data Analysis (EDA + Stats)</a>
+- <a href="https://github.com/HarishRankwatA/SQL-Projects"> SQL & Business Case Studies</a>
+- <a href="https://github.com/HarishRankwatA/Visualization-Projects"> Power BI & Tableau Dashboards</a>
+- <a href="https://github.com/HarishRankwatA/ML-Projects"> Machine Learning Models</a>
+- <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools & Prompt Engineering</a>
