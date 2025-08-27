@@ -12,7 +12,7 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Exploratory Data Analysis (EDA) with Python   | <a href="https://github.com/HarishRankwatA/Data-Analysis-Projects"> EDA Projects</a> |
+| Exploratory Data Analysis (EDA) with Python   | <a href="https://github.com/HarishRankwatA/Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis"> EDA Projects</a> |
 | SQL Querying & Optimization                   | <a href="https://github.com/HarishRankwatA/SQL-Projects"> SQL Case Studies</a> |
 | Data Visualization (Power BI / Tableau / Matplotlib) | <a href="https://github.com/HarishRankwatA/Visualization-Projects"> Dashboards</a> |
 | Machine Learning Models (Regression, Classification, Clustering) | <a href="https://github.com/HarishRankwatA/ML-Projects"> ML Projects</a> |
@@ -43,7 +43,7 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 
 
 ## Projects
-- <a href="https://github.com/HarishRankwatA/Data-Analysis-Projects"> End-to-End Data Analysis (EDA + Stats)</a>
+- <a href="https://github.com/HarishRankwatA/Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis"> Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis (EDA)</a>
 - <a href="https://github.com/HarishRankwatA/SQL-Projects"> SQL & Business Case Studies</a>
 - <a href="https://github.com/HarishRankwatA/Visualization-Projects"> Power BI & Tableau Dashboards</a>
 - <a href="https://github.com/HarishRankwatA/ML-Projects"> Machine Learning Models</a>
