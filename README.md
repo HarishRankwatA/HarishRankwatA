@@ -45,6 +45,6 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 ## Projects
 - <a href="https://github.com/HarishRankwatA/Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis"> Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis (EDA)</a>
 - <a href="https://github.com/HarishRankwatA/SQL-Projects"> SQL & Business Case Studies</a>
-- <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> Power BI Dashboards</a>
+- <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> HR Analytics Dashboard</a>
 - <a href="https://github.com/HarishRankwatA/ML-Projects"> Machine Learning Models</a>
 - <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools & Prompt Engineering</a>
