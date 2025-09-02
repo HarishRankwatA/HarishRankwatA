@@ -15,7 +15,7 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 | Exploratory Data Analysis (EDA) with Python   | <a href="https://github.com/HarishRankwatA/Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis"> EDA Projects</a> |
 | SQL Querying & Optimization                   | <a href="https://github.com/HarishRankwatA/Airlines_SQL_Project"> SQL Case Studies</a> |
 | Data Visualization (Power BI) | <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> Dashboards</a> |
-| Machine Learning Models (Regression, Classification, Clustering) | <a href="https://github.com/HarishRankwatA/ML-Projects"> ML Projects</a> |
+| Machine Learning Models  | <a href="https://github.com/HarishRankwatA/stock-prediction-streamlit"> ML Projects</a> |
 | Statistical Analysis & Hypothesis Testing      | <a href="https://github.com/HarishRankwatA/Stats-Projects"> Statistics</a> |
 | Prompt Engineering for Data Analysis           | <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools</a> |
 
@@ -44,7 +44,7 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 
 ## Projects
 - <a href="https://github.com/HarishRankwatA/Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis"> Maximizing-Taxi-Driver-Revenue-through-Payment-Type-Analysis (EDA)</a>
-- <a href="https://github.com/HarishRankwatA/Airlines_SQL_Project"> Airlines_SQL_Project</a>
+- <a href="https://github.com/HarishRankwatA/Airlines_SQL_Project"> Airlines SQL Project</a>
 - <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> HR Analytics Dashboard</a>
-- <a href="https://github.com/HarishRankwatA/ML-Projects"> Machine Learning Models</a>
+- <a href="https://github.com/HarishRankwatA/stock-prediction-streamlit"> Stock-Prediction-Streamlit</a>
 - <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools & Prompt Engineering</a>
