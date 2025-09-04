@@ -16,7 +16,7 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 | SQL Querying & Optimization                   | <a href="https://github.com/HarishRankwatA/Airlines_SQL_Project"> SQL Case Studies</a> |
 | Data Visualization (Power BI) | <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> Dashboards</a> |
 | Machine Learning Models  | <a href="https://github.com/HarishRankwatA/stock-prediction-streamlit"> ML Projects</a> |
-| Statistical Analysis & Hypothesis Testing      | <a href="https://github.com/HarishRankwatA/Stats-Projects"> Statistics</a> |
+| Statistical Analysis & Hypothesis Testing      | <a href="https://github.com/HarishRankwatA/AB-Testing-Project/"> AB Testing</a> |
 | Prompt Engineering for Data Analysis           | <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools</a> |
 
 ## Tools
@@ -47,4 +47,4 @@ To leverage my end-to-end data analysis and machine learning expertise in solvin
 - <a href="https://github.com/HarishRankwatA/Airlines_SQL_Project"> Airlines SQL Project</a>
 - <a href="https://github.com/HarishRankwatA/HR-Analytics-Dashboard"> HR Analytics Dashboard</a>
 - <a href="https://github.com/HarishRankwatA/stock-prediction-streamlit"> Stock-Prediction-Streamlit</a>
-- <a href="https://github.com/HarishRankwatA/AI-Prompt-Projects"> AI Tools & Prompt Engineering</a>
+- <a href="https://github.com/HarishRankwatA/AB-Testing-Project/"> AB-Testing-Project</a>
